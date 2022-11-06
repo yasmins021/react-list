@@ -17,7 +17,7 @@ const item={
   value:newItem
 };
 setItems(oldList=>[...oldList,item]);
-setNewItem(newArray);
+setNewItem("");
 }
 function deleteItem(id) {
 const newArray = items.filter(item => item.id !== id); 
