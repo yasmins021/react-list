@@ -1,11 +1,11 @@
 .App {
   text-align: center;
   margin: 0 auto;
-  background-image: url("https://sadgrl.online/images/lyts/not-mine/notebook-collage.png");
+  background-image: white;
   border-radius: 20px;
   height: 800px;
   width: 800px;
-
+border-image: url(lace.png);
 }
 
 ul {
