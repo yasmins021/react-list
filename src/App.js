@@ -84,7 +84,7 @@ function App() {
                   className="delete-button"
                   onClick={() => deleteItem(item.id)}
                 >
-                 <img src="close.png " alt="X icon"></img>
+                ❌
                 </button>
               </li>
 
