@@ -2,3 +2,7 @@
   text-align: center;
 }
 
+ul.pixelbullets {
+  list-style-image: url("https://sadgrl.online/images/lyts/not-mine/hearth_rosa.gif");
+  padding-left: 25px;
+}
