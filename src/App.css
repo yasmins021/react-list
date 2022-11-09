@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  margin: 0 auto;
+  margin-top: 100px;
   
- background-image: url('http://dl4.glitter-graphics.net/pub/3195/3195434qnvhr865lw.gif');
+ border-image: url("lace.png") 5 fill round;
   background-attachment: fixed;
   background-repeat: repeat;
   
