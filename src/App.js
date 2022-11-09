@@ -58,7 +58,7 @@ function App() {
 
   // Main part of app
   return (
-    <div className="app">
+    <div className="App">
       {/* 1. Header  */}
       <h1>My Todo List</h1>
 
