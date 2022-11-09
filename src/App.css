@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 0 auto;
+  background-color:rgb(251, 203, 230);
+  border-radius: 20px;
+
 }
 
 ul {
