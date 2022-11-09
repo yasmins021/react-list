@@ -3,6 +3,8 @@
   margin-top: 100px;
   background-color: white;
  border-image: url("hearts.png") 5 fill round;
+ background-attachment: fixed;
+ background-repeat: repeat;
  height: 700px;
   width: 700px;
 
