@@ -74,7 +74,7 @@ function App() {
       <button onClick={() => addItem()}>Add</button>
 
       {/* 3. List of todos (unordered list) */}
-      <ul>
+      <ul className="pixelbuttons">
         {items.map((item) => {
           return (
             <div>
