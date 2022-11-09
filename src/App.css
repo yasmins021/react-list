@@ -2,10 +2,8 @@
   text-align: center;
   margin-top: 100px;
   background-color: white;
- border-image: url("http://dl4.glitter-graphics.net/pub/988/988834hh9o6vxkbm.gif") 5 fill round;
-
-
-  height: 700px;
+ border-image: url("hearts.png") 5 fill round;
+ height: 700px;
   width: 700px;
 
 }
