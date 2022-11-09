@@ -3,6 +3,12 @@
 }
 
 ul {
-  list-style-image: url("https://sadgrl.online/images/lyts/not-mine/hearth_rosa.gif");
-  padding-left: 300px;
+  list-style: none;
 }
+ li{
+   margin: 12px 0;
+ }
+ input{
+   padding: 4x;
+   margin-right: 8px;
+ }
