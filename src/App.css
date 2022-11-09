@@ -1,11 +1,11 @@
 .App {
   text-align: center;
   margin: 0 auto;
-  background-image: white;
+  background-image: url(lace.png);
   border-radius: 20px;
   height: 800px;
   width: 800px;
-border-image: url(lace.png) 30 round;
+
 }
 
 ul {
