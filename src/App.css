@@ -2,7 +2,7 @@
   text-align: center;
   margin-top: 100px;
   
- border-image: url("hearts.png") 5 fill round;
+ border-image: url("border.png") 5 fill round;
   background-attachment: fixed;
   background-repeat: repeat;
    border-radius: 20px;
