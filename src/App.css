@@ -2,7 +2,7 @@
   text-align: center;
   margin-top: 100px;
   
- border-image: url("border.png") 33%;
+ border-image: url("border.png") 33% round;
   background-color: pink;
 
    border-radius: 20px;
