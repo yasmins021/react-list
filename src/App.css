@@ -6,7 +6,7 @@
   height: 700px;
   width: 700px;
  
- border-image-source: url("border.png") ;
+ border-image-source: url("leaf.gif") ;
 border-image-slice:80 ;
 border:40px solid ;
 border-image-repeat: round;
