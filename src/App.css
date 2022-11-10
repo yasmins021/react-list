@@ -10,7 +10,7 @@ border-radius: 20px;
  border-image-source: url("bow.png") ;
 border-image-slice:80 ;
 border:40px solid ;
-border-image-repeat: round;
+border-image-repeat: repeat;
 }
 
 
