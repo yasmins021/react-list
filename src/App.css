@@ -7,7 +7,7 @@
   width: 500px;
  border-image: url("border.png") 100 fill round;
 
-
+border-image-repeat: no-repeat;
 }
 
 
