@@ -8,7 +8,7 @@
  
  border-image-source: url("candy.png") ;
 border-image-slice:100 ;
-border:40px solid ;
+border:30px solid ;
 border-image-repeat: round;
 }
 
