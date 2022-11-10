@@ -1,12 +1,12 @@
 .App {
   text-align: center;
-  margin: 0 auto;
+  margin-top: 100px;
   background-color: rgb(250, 199, 236);
 border-radius: 20px;
   height: 600px;
   width: 600px;
   padding:10px;
- border-image-source: url("pixel.png") ;
+ border-image-source: url("roses.gif") ;
 border-image-slice:80 ;
 border:40px solid ;
 border-image-repeat: round;
