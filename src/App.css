@@ -5,9 +5,7 @@
  border-image: url("hearts.png") 5 fill round;
   background-attachment: fixed;
   background-repeat: repeat;
-  
-
-  border-radius: 20px;
+   border-radius: 20px;
   height: 700px;
   width: 700px;
 
