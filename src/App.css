@@ -3,11 +3,11 @@
   margin: 0 auto;
   background-color: white;
 
-  height: 700px;
-  width: 700px;
+  height: 600px;
+  width: 600px;
  
- border-image-source: url("leaf.gif") ;
-border-image-slice:100 ;
+ border-image-source: url("candy.png") ;
+border-image-slice:80 ;
 border:40px solid ;
 border-image-repeat: round;
 }
