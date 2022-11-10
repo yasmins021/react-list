@@ -7,7 +7,7 @@
   width: 500px;
  
  border-image-source: url("candy.png") ;
-border-image-slice:80 ;
+border-image-slice:100 ;
 border:40px solid ;
 border-image-repeat: round;
 }
