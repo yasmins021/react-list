@@ -4,7 +4,7 @@
   
  border-image: url("border.png") 33% round;
   background-color: pink;
-
+border-image: repeat;
    border-radius: 20px;
   height: 700px;
   width: 700px;
