@@ -5,9 +5,9 @@
   border-radius: 20px;
   height: 500px;
   width: 500px;
- border-image-source: url("border.png") 30 round;
+ border-image: url("border.png") 5 round;
 
-
+border-image-slice: 800 fill;
 }
 
 
