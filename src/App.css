@@ -3,8 +3,8 @@
   margin: 0 auto;
   background-color: white;
 
-  height: 600px;
-  width: 600px;
+  height: 500px;
+  width: 500px;
  
  border-image-source: url("candy.png") ;
 border-image-slice:80 ;
