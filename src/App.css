@@ -5,12 +5,14 @@
   border-radius: 20px;
   height: 500px;
   width: 500px;
- border-image: url("border.png") 5 fill round;
- border-image-width:800px;
+ border-image: url("http://dl4.glitter-graphics.net/pub/988/988834hh9o6vxkbm.gif") 5 fill round;
+
 
 }
 
-
+img{
+  width:633px; 
+}
 ul {
   list-style: none;
 }
