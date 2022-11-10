@@ -7,10 +7,10 @@ border-radius: 20px;
   height: 600px;
   width: 600px;
   padding:10px;
- border-image-source: url("bow.png") ;
+ border-image-source: url("teddy.png") ;
 border-image-slice:80 ;
 border:70px solid ;
-border-image-repeat: repeat;
+border-image-repeat: round;
 }
 
 
