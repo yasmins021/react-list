@@ -6,7 +6,7 @@
   height: 600px;
   width: 600px;
  
- border-image-source: url("border.png") ;
+ border-image-source: url("clouds.png") ;
 border-image-slice:80 ;
 border:40px solid ;
 border-image-repeat: round;
