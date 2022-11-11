@@ -7,10 +7,12 @@ border-radius: 20px;
   height: 600px;
   width: 600px;
   padding:10px;
- border-image-source: url("strawberry.png") ;
-border-image-slice:80 ;
-border:70px solid ;
-border-image-repeat: round;
+  background-image: url("candy.png");
+  padding-top: 40px;
+  width: 690px;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: 690px 500px;
 }
 
 
